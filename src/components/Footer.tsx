@@ -36,7 +36,7 @@ const Footer = () => {
             transition={{ duration: 0.6 }}
             className="flex flex-col items-center md:items-start gap-2"
           >
-            <Link href="/" className="flex items-center gap-2 group">
+            <Link href="/about" className="flex items-center gap-2 group">
               <div className="relative">
                 <div className="absolute inset-0 bg-gradient-to-r from-primary/30 to-blue-500/30 rounded-lg blur-lg opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
                 <div className="relative p-2 bg-gradient-to-r from-primary/20 to-blue-500/20 rounded-lg backdrop-blur-sm border border-primary/30 group-hover:scale-110 transition-transform duration-300">
